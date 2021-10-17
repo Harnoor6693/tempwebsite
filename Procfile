@@ -1,0 +1,1 @@
+web: mysite.wgi --log-file -
