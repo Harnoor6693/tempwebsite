@@ -133,3 +133,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, '/childhood/templates'),
 )
+
+STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')

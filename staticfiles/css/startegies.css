@@ -1,0 +1,26 @@
+.images img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    padding-left: 32%;
+    padding-right: 32%;
+}
+.images p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.images2 img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.images2 p{
+    text-align: center;
+    font-weight: bold;
+}
