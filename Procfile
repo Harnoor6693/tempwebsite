@@ -1,1 +1,1 @@
-web: mysite.wgi --log-file -
+web: mysite.wsgi --log-file -
